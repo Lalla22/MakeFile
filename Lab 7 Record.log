@@ -1,0 +1,13 @@
+=~=~=~=~=~=~=~=~=~=~=~= PuTTY log 2020.10.18 14:37:25 =~=~=~=~=~=~=~=~=~=~=~=
+login as: lsankara
+Pre-authentication banner message from server:
+| Access to Brooklyn College computers is restricted to authorized users
+|         and approved educational and research purposes, only.
+End of banner message from server
+lsankara@146.245.252.29's password: 
+Last login: Sun Oct 18 14:18:47 2020 from pool-173-56-237-127.nycmny.fios.verizon.net
+]0;lsankara@sol29:~[?1034h[lsankara@sol29 ~]$ cat > make file
+cat: file: No such file or directory
+]0;lsankara@sol29:~[lsankara@sol29 ~]$ mkae [K[K[K[Kake start 
+makefile:1: *** missing separator.  Stop.
+]0;lsankara@sol29:~[lsankara@sol29 ~]$ 

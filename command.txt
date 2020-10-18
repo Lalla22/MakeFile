@@ -1,0 +1,8 @@
+$make start 
+$make -f Makefile1
+gcc -c main.c
+gcc -c 2.c
+gcc -c 3.c
+gcc -o myapp main.o 2.o 3.o
+$
+$make clean

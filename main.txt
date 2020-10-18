@@ -1,0 +1,23 @@
+/* main.c */
+#include <stdlib.h>
+#include “a.h”
+extern void function_two();
+extern void function_three();
+int main()
+{
+    function_two();
+    function_three();
+    exit (EXIT_SUCCESS);
+}
+
+/* 2.c */
+#include “a.h”
+#include “b.h”
+void function_two() {
+}
+
+/* 3.c */
+#include “b.h”
+#include “c.h”
+void function_three() {
+}
